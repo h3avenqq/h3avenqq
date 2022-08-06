@@ -3,8 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 .Net/Unity developer
 --------------------
 I study at Mendeleev University on Information systems and technologies. I am programming in C#. I know ASP.NET/EF/WebApi etc. I'm also into Unity.
-Outside of C#, I have knowledge of Python/MatLab/C.
-* 🌍  I'm based in Moscow
+</br>Outside of C#, I have knowledge of Python/MatLab/C.
+* 🌍  I'm based in Moscow/Russia
 * ✉️  You can contact me at [maximshmarev@gmail.com](mailto:maximshmarev@gmail.com)
 * 🧠  I'm learning ASP.NET, Unity
 
@@ -14,7 +14,7 @@ Outside of C#, I have knowledge of Python/MatLab/C.
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/4777" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/h3avenqq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/pepeclown_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/4777" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/h3avenqq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/pepeclown_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://t.me/Heavenqq" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="32" height="32" /></a></p>
 
 ### Badges
 
