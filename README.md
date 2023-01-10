@@ -1,6 +1,6 @@
 Hi 👋 My name is Maxim Shmarev
 =====================================================================================================================================
-.Net/Unity developer
+.Net developer
 --------------------
 I study at Mendeleev University on Information systems and technologies. I am programming in C#. I know ASP.NET/EF/WebApi etc. I'm also into Unity.
 </br>Outside of C#, I have knowledge of Python/MatLab/C.
